@@ -1,0 +1,11 @@
+Question 1: Find the top 3 customers who have the maximum number of orders
+
+Question 2: Create a new column DaysTakenForDelivery that contains the date difference between Order_Date and Ship_Date.
+
+Question 3: Find the customer whose order took the maximum time to get delivered.
+
+Question 4: Retrieve total sales made by each product from the data (use Windows function)
+
+Question 5: Retrieve the total profit made from each product from the data (use windows function)
+
+Question 6: Count the total number of unique customers in January and how many of them came back every month over the entire year in 2011

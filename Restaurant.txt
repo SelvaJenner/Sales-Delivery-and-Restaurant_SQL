@@ -1,0 +1,8 @@
+Question 1: - We need to find out the total visits to all restaurants under all alcohol categories available.
+Question 2: -Let's find out the average rating according to alcohol and price so that we can understand the rating in respective price categories as well.
+Question 3:  Let’s write a query to quantify that what are the parking availability as well in different alcohol categories along with the total number of restaurants.
+Question 4: -Also take out the percentage of different cuisine in each alcohol type.
+Questions 5: - let’s take out the average rating of each state.
+Questions 6: -' Tamaulipas' Is the lowest average rated state. Quantify the reason why it is the lowest rated by providing the summary on the basis of State, alcohol, and Cuisine.
+Question 7:  - Find the average weight, food rating, and service rating of the customers who have visited KFC and tried Mexican or Italian types of cuisine, and also their budget level is low.
+We encourage you to give it a try by not using joins.
